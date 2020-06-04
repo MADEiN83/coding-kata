@@ -19,11 +19,11 @@
   "homepage": "https://github.com/MADEiN83/coding-kata#readme",
   "dependencies": {
     "jest": "^24.9.0",
-    "tslint": "^5.20.0"
+    "tslint": "^5.20.1"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/preset-env": "^7.6.3",
-    "@types/jest": "^24.0.19"
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "@types/jest": "^24.9.1"
   }
 }
